@@ -69,7 +69,7 @@ namespace dbProject2022
                 }
                 else
                 {
-                    DisplayAlert("Failed!", "Error", "Ok");
+                    DisplayAlert("Failed to delete!", "Error", "Ok");
                 }
              
 

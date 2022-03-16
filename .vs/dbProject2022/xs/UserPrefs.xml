@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{F4286D8A-E3CC-4D51-B9DB-7D0F458AEFFD}|Default">
-  <MonoDevelop.Ide.ItemProperties.dbProject2022.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.650F9E32-796C-409D-807E-25E26077BFCF" />
+  <MonoDevelop.Ide.ItemProperties.dbProject2022.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B3264FB9-E7CE-41F7-9329-E35DAE104248" />
   <MonoDevelop.Ide.Workbench ActiveDocument="dbProject2022/CourseDetailPage.xaml.cs">
     <Files>
       <File FileName="dbProject2022/CoursesPage.xaml.cs" Line="52" Column="76" />
-      <File FileName="dbProject2022/CourseDetailPage.xaml.cs" Line="65" Column="38" />
-      <File FileName="dbProject2022/CourseDetailPage.xaml" Line="11" Column="56" />
+      <File FileName="dbProject2022/CourseDetailPage.xaml.cs" Line="72" Column="51" />
+      <File FileName="dbProject2022/CourseDetailPage.xaml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
